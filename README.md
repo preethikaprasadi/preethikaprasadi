@@ -45,6 +45,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preethikaprasadi&theme=radical" alt="Profile Details" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethikaprasadi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -54,9 +57,18 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=preethikaprasadi&theme=radical&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📫 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://dev.to/your-profile"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/your-profile"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
