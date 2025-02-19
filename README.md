@@ -1,8 +1,8 @@
-## 👋 Hi, I'm [Your Name]!
+## 👋 Hi, I'm Preethika!
 
 🎓 IT Undergraduate at Sabaragamuwa University of Sri Lanka  
 💻 Full Stack Developer | AI & ML Enthusiast | Open Source Contributor  
-🚀 Building [SkillTrack](#) | [WaveCatalyst](#)  
+  
 
 ### 🚀 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
