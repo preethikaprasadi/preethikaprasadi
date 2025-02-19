@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🎓 **Undergraduate IT Student** at **Sabaragamuwa University of Sri Lanka**
-- 💻 Passionate about **Full Stack Development, AI & ML, and Open Source**
+- 💻 Passionate about **Full Stack Development, AI & ML, and Data Science**
 - 🌱 Currently Learning **NestJS, Next.js, and Cloud Computing**
 - 📫 **How to reach me?** [LinkedIn](linkedin.com/in/preethika-prasadi-663637318) | [Gmail](preethikaprasadi@gmail.com)
 
