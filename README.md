@@ -1,9 +1,9 @@
-![GitHub Banner](https://github.com/your-username/your-username/blob/main/assets/banner.gif)
+![GitHub Banner](https://github.com/preethikaprasadi/preethikaprasadi/blob/main/assets/banner.gif)
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Preethika Prasadi</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Data+Analyst+%26+Visualization+Expert;AI+%26+ML+Enthusiast;Open+Source+Contributor;Tech+Speaker"/>
 </p>
 
 ---
@@ -11,8 +11,10 @@
 ### 🚀 About Me
 
 - 🎓 **Undergraduate IT Student** at **Sabaragamuwa University of Sri Lanka**
-- 💻 Passionate about **Full Stack Development, AI & ML, and Data Science**
-- 🌱 Currently Learning **NestJS, Next.js, and Cloud Computing**
+- 💻 Passionate about **Full Stack Development, Data Analysis, AI & ML, Open Source & Cloud Computing**
+- 📊 Specializing in **Data Analytics, Data Visualization & Business Intelligence**
+- 🌱 Currently Learning **NestJS, Next.js, Power BI, Tableau, and Machine Learning**
+- 🚀 **Building Scalable Web Apps, Data Dashboards & Contributing to Open Source**
 - 📫 **How to reach me?** [LinkedIn](linkedin.com/in/preethika-prasadi-663637318) | [Gmail](preethikaprasadi@gmail.com)
 
 ---
@@ -23,11 +25,19 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### **Data Analysis & Visualization**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 #### **DevOps & Tools**
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -52,8 +62,7 @@
 ---
 
 ### 🔥 Recent GitHub Activity
-[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=preethikaprasadi&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=preethikaprasadi&theme=react-dark)
 
 ---
 
@@ -64,11 +73,22 @@
 
 ---
 
+### 🎨 Fun & Animations
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+</p>
+
+---
+
 ### 📫 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://dev.to/your-profile"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="linkedin.com/in/preethika-prasadi-663637318"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/preethikaprasadi"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://youtube.com/@preethikaprasadi3968?si=N_Z0ZKxR787PN9x_"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Let's+Connect!+%F0%9F%91%8B;Follow+Me+For+More+Awesome+Projects!"/>
 </p>
