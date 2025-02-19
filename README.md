@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm [Your Name]!
 
+🎓 IT Undergraduate at Sabaragamuwa University of Sri Lanka  
+💻 Full Stack Developer | AI & ML Enthusiast | Open Source Contributor  
+🚀 Building [SkillTrack](#) | [WaveCatalyst](#)  
 
-**preethikaprasadi/preethikaprasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-profile)
