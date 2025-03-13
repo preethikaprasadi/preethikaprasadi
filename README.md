@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/preethikaprasadi/preethikaprasadi/blob/main/assets/banner.gif)
+![GitHub Banner](https://github.com/preethikaprasadi/preethikaprasadi/banner.gif)
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Preethika Prasadi</a> 👋</h1>
 
