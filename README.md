@@ -1,4 +1,4 @@
-![GitHub Banner](https://github.com/preethikaprasadi/preethikaprasadi/blob/main/assets/Banner.png)
+![Banner](https://github.com/preethikaprasadi/preethikaprasadi/blob/main/assets/Banner.png)
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/preethikaprasadi">Preethika Prasadi</a> 👋</h1>
 
