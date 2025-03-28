@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Data+Analyst+%26+Visualization+Expert;AI+%26+ML+Enthusiast;Open+Source+Contributor;Software+Engineer"/>
 </p>
-
 ---
 
 ### 🚀 About Me
