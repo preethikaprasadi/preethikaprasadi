@@ -86,7 +86,7 @@
 <p align="center">
   <a href="linkedin.com/in/preethika-prasadi-663637318"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/preethikaprasadi"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://youtube.com/@preethikaprasadi3968?si=N_Z0ZKxR787PN9x_"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  
 </p>
 
 <p align="center">
