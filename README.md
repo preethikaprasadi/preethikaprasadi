@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **Undergraduate IT Student** at **Sabaragamuwa University of Sri Lanka**
+- 🎓 **Undergraduate IT Student** at **Sabaragamuwa University of Sri Lanka** <br>
 - 💻 Passionate about **Full Stack Development, Data Analysis, AI & ML, Open Source & Cloud Computing**
 - 📊 Specializing in **Web Development, Data Analytics, Data Visualization & Business Intelligence**
 - 🌱 Currently Learning **NestJS, Next.js, Power BI, Tableau, and Machine Learning**
