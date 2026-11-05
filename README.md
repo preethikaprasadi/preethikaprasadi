@@ -114,13 +114,6 @@ A web-based application designed to analyze body measurements and provide person
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=preethikaprasadi&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=preethikaprasadi&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
 ## 📊 GitHub Activity & Contribution Streak
 
 <p align="center">
