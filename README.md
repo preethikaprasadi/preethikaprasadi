@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Preethika Prasadi 👋</h1>
 
-<h3 align="center">Software Engineer | Full-Stack Developer | Applied AI Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Applied AI Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/preethika-prasadi-663637318/">
