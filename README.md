@@ -1,4 +1,4 @@
-![Banner](https://github.com/preethikaprasadi/preethikaprasadi/blob/main/Blue Modern Technology LinkedIn Banner (1).png)
+![Banner](https://github.com/preethikaprasadi/preethikaprasadi/blob/main/Blue Modern Technology LinkedIn Banner (1).png )
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/preethikaprasadi">Preethika Prasadi</a> 👋<br></h1>
 
