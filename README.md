@@ -121,6 +121,16 @@ A web-based application designed to analyze body measurements and provide person
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=preethikaprasadi&layout=compact&theme=transparent&hide_border=true" height="170" />
 </p>
 
+## 📊 GitHub Activity & Contribution Streak
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/preethikaprasadi/github-profile-stats/main/assets/github-stats.svg"
+    width="100%"
+    alt="GitHub Activity and Contribution Statistics"
+  />
+</p>
+
 ## Let's Connect
 
 I'm always interested in connecting with developers, exploring new technologies, and collaborating on meaningful software projects.
