@@ -10,11 +10,11 @@
 
 ### 🚀 About Me
 
-- 🎓 **Undergraduate IT Student** at **Sabaragamuwa University of Sri Lanka** 
-- 💻 Passionate about **Full Stack Development, Data Analysis, AI & ML**
-- 📊 Specializing in **Web Development, Data Analytics, Data Visualization & Business Intelligence**
-- 🌱 Currently Learning **NestJS, Next.js, Power BI, Tableau, and Machine Learning**
-- 🚀 **Building Scalable Web Apps, Data Dashboards & Contributing to Open Source**
+- 🎓 **Computing & Information Systems Graduate** at **Sabaragamuwa University of Sri Lanka** 
+- 💻 Passionate about **Full Stack Development, Applied AI, AI & ML, Data Analysis**
+- 📊 Specializing in **Web Development, Data Analytics, Data Visualization**
+- 🌱 Currently Learning **Automation**
+- 🚀 **Building intelligent applications, developing machine learning solutions and engineering data-driven software systems.**
 - 📫 **How to reach me?** [LinkedIn](linkedin.com/in/preethika-prasadi-663637318) | [Gmail](preethikaprasadi@gmail.com)
 
 ---
