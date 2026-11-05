@@ -1,100 +1,144 @@
-![Banner](https://github.com/preethikaprasadi/preethikaprasadi/blob/main/Banner1.png )
+![Profile Banner](https://raw.githubusercontent.com/preethikaprasadi/preethikaprasadi/main/Banner1.png)
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/preethikaprasadi">Preethika Prasadi</a> 👋<br></h1>
+<h1 align="center">Hi, I'm Preethika Prasadi 👋</h1>
+
+<h3 align="center">Software Engineer | Full-Stack Developer | Applied AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Data+Analyst+%26+Visualization+Expert;AI+%26+ML+Enthusiast;Software+Engineer"/>
+  <a href="https://www.linkedin.com/in/preethika-prasadi-663637318/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:preethikaprasadi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/preethikaprasadi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## About Me
 
-- 🎓 **Computing & Information Systems Graduate** at **Sabaragamuwa University of Sri Lanka** 
-- 💻 Passionate about **Full Stack Development, Applied AI, AI & ML, Data Analysis**
-- 📊 Specializing in **Web Development, Data Analytics, Data Visualization**
-- 🌱 Currently Learning **Automation**
-- 🚀 **Building intelligent applications, developing machine learning solutions and engineering data-driven software systems.**
-- 📫 **How to reach me?** [LinkedIn](linkedin.com/in/preethika-prasadi-663637318) | [Gmail](preethikaprasadi@gmail.com)
+I'm a Computing and Information Systems graduate from **Sabaragamuwa University of Sri Lanka**, interested in designing and developing software solutions that solve real-world problems.
 
----
+My interests include full-stack application development, applied artificial intelligence, machine learning, and data-driven systems. I enjoy working across the software development lifecycle, from designing user interfaces and building backend services to integrating intelligent solutions.
 
-### 🛠️ Tech Stack
-
-#### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### **Data Analysis & Visualization**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-#### **DevOps & Tools**
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- 🎓 BSc (Hons) in Computing and Information Systems
+- 💻 Interested in Full-Stack and Backend Development
+- 🤖 Exploring Applied AI, Machine Learning and LLM-based applications
+- 📊 Interested in Data Analytics and Visualization
+- 🌱 Continuously learning and improving my software engineering skills
 
 ---
 
-### 📊 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=preethikaprasadi&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preethikaprasadi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preethikaprasadi&theme=radical" alt="Profile Details" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethikaprasadi&layout=compact&theme=radical" alt="Top Languages" />
+## Technical Skills
+
+**Programming Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
----
+**Frontend Development**
 
-### 🔥 Recent GitHub Activity
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=preethikaprasadi&theme=react-dark)
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=preethikaprasadi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"
-    alt="GitHub Profile Trophies"
-    width="100%"
-  />
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
----
+**Backend Development**
 
-### 🎨 Fun With Coding
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+**AI, Machine Learning & Data Analytics**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+## Featured Projects
+
+### 🤖 HireAI – AI-Powered Recruitment Platform
+
+An AI-powered recruitment platform designed to streamline recruitment workflows through intelligent resume analysis and candidate evaluation.
+
+**Focus:** Full-Stack Development, AI Integration, LLMs, PostgreSQL, pgvector.
+
+### 🧬 Skin Cancer Early Detection Using Deep Learning
+
+A research project focused on multi-class skin cancer classification using hybrid deep learning techniques and explainable AI approaches.
+
+**Focus:** Python, Deep Learning, Computer Vision, ConvNeXtV2, Explainable AI.
+
+### 📐 BodyCurve Analyzer
+
+A web-based application designed to analyze body measurements and provide personalized body-shape insights using an integrated machine learning pipeline.
+
+**Focus:** Python, Flask, Next.js, Machine Learning.
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-  <a href="linkedin.com/in/preethika-prasadi-663637318"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/preethikaprasadi"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://youtube.com/@preethikaprasadi3968?si=N_Z0ZKxR787PN9x_"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=preethikaprasadi&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preethikaprasadi&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm always interested in connecting with developers, exploring new technologies, and collaborating on meaningful software projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/preethika-prasadi-663637318/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:preethikaprasadi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/preethikaprasadi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Let's+Connect!+%F0%9F%91%8B;Follow+Me+For+More+Awesome+Projects!"/>
+  <i>Building, learning, and creating one project at a time.</i>
 </p>
