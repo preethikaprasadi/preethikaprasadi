@@ -1,4 +1,4 @@
-![Profile Banner](https://raw.githubusercontent.com/preethikaprasadi/preethikaprasadi/main/Banner1.png)
+![Profile Banner](https://raw.githubusercontent.com/preethikaprasadi/preethikaprasadi/main/Banner1.png )
 
 <h1 align="center">Hi, I'm Preethika Prasadi 👋</h1>
 
